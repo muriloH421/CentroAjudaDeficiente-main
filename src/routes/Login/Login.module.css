@@ -1,0 +1,98 @@
+.PageLoginBoard_div1 {
+  width: 50%;
+  height: 50%;
+  display: flex;
+  flex-direction: row;
+}
+.PageLoginBoard_header1 {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  position: sticky;
+  margin-top: 40px;
+  margin-right: 25%;
+  margin-bottom: 120px;
+  margin-left: 25%;
+  width: 50%;
+  padding-top: 90px;
+  height: 40em;
+  align-items: center;
+  border-radius: 5px;
+  box-shadow: 5.2px 4.69px 20px black;
+}
+.PageLoginBoard_div2 {
+  width: 50px;
+  height: 20px;
+}
+.PageLoginBoard_form1 {
+  height: 25%;
+  width: 50%;
+}
+.PageLoginBoard_input1 {
+  background-color: rgba(231, 229, 229, 0);
+}
+.PageLoginBoard_input3 {
+  margin-left: 45%;
+  font-family: Comic Sans MS, cursive;
+  background-color: #fff7d1;
+  border-radius: 10px;
+  border: 1px solid #fff7d1;
+  height: 25px;
+  width: 10em;
+}
+.PageLoginBoard_label1 {
+  font-size: 20px;
+  line-height: 2;
+  font-family: Comic Sans MS, cursive;
+  color: #015aa6;
+}
+.PageLoginBoard_header2 {
+  font-size: 35px;
+  color: #e9013d;
+  font-family: Comic Sans MS, cursive;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.PageLoginBoard_label2 {
+  font-size: 20px;
+  line-height: 2;
+  font-family: Comic Sans MS, cursive;
+  color: #015aa6;
+}
+.PageLoginBoard_form2 {
+  width: 30em;
+  height: 40em;
+  display: block;
+  flex-direction: column;
+}
+.PageLoginBoard_input4 {
+  height: 3em;
+  width: 98%;
+  border-radius: 3px;
+}
+.PageLoginBoard_input5 {
+  height: 3em;
+  width: 98%;
+  margin-top: 6px;
+  border-radius: 3px;
+}
+.PageLoginBoard_label3 {
+  font-size: 30px;
+}
+.PageLoginBoard_label4 {
+  font-size: 30px;
+}
+.PageLoginBoard_input6 {
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  width: 200px;
+  font-size: 30px;
+  margin-left: 5em;
+  margin-right: 5em;
+  border-radius: 3px;
+  background-color: #ffff;
+  border: none;
+  cursor: pointer;
+}

@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fff7d1;
+}
+
+.NewBoardBoard_p1 {
+  font-size: 16px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  margin-right: 30px;
+  font-family: Arial, sans-serif;
+}
+
+/* .NewBoardBoard_img2 {
+  display: block;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 40px;
+  border: 1px solid #ffffff;
+  border-radius: 7px;
+  width: 50%;
+  margin-bottom: 120px;
+} */
+
+/* Cards */
+.Container2 {
+  font-family: Arial, sans-serif;
+  display: flex;
+  grid-auto-flow: column;
+  flex-direction: row;
+}
+.Card1 {
+  background-color: #ffffff;
+  height: 200px;
+  width: 350px;
+  text-align: center;
+  border-radius: 20px;
+  box-shadow: 4.95px 4.95px 20px -6px rgba(0, 0, 0, 0.5);
+}
+.Card2 {
+  background-color: #ffffff;
+  height: 200px;
+  width: 350px;
+  text-align: center;
+  border-radius: 20px;
+  box-shadow: 4.95px 4.95px 20px -6px rgba(0, 0, 0, 0.5);
+}
+.Card3 {
+  background-color: #ffffff;
+  height: 200px;
+  width: 350px;
+  text-align: center;
+  border-radius: 20px;
+  box-shadow: 4.95px 4.95px 20px -6px rgba(0, 0, 0, 0.5);
+}
+/* _______________________________________________________________________ */
+
+/* contato */
+.Contato {
+  margin-bottom: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 80px;
+  display: flex;
+  background-color: #ffffff;
+  font-family: Arial, sans-serif;
+  align-items: center;
+  text-transform: none;
+  height: 20em;
+  flex-direction: column;
+  justify-content: center;
+  box-shadow: 1.1px 3px 20px rgba(0, 0, 0, 0.6);
+  border-radius: 1px;
+}
+
+.NewBoardBoard_button1 {
+  background-color: #fff7d1;
+  border: 1px solid #fff1d7;
+  border-radius: 10px;
+  font-family: Arial, sans-serif;
+  height: 3em;
+  width: 10em;
+}
+
+/* __________________________________________________________________________ */
